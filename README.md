@@ -11,7 +11,9 @@ This is a Python-based AI assistant inspired by *Jarvis* and *Friday*, capable o
 
 This agent uses LiveKit. 
 And I modified it from J.A.R.V.I.S. (Just A Rather Very Intelligent System) to 
-  *_F.R.I.D.A.Y.(Female Robotic Interface Delivering Assistance to You😉)_*
+  **F.R.I.D.A.Y.(Female Robotic Interface Delivering Assistance to You😉)**
+
+- you can use [LiveKit Playground](https://agents-playground.livekit.io/#cam=1&mic=1&screen=1&video=1&audio=1&chat=1&theme_color=green) for an interactive UI.
 
 ---
 
