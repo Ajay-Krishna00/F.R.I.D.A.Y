@@ -1,0 +1,6 @@
+venv/
+.env
+FRIDAY_APP/
+FRIDAY/
+__pycache__/
+KMS/
